@@ -1,2 +1,2 @@
 # ComputerGraphics
-Computer Graphics Algorithms.
+Computer Graphics Algorithms and Projects.
